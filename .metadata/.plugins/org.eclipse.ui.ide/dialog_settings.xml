@@ -5,7 +5,11 @@
 		<item value="false" key="WizardProjectsImportPage.STORE_COPY_PROJECT_ID"/>
 		<item value="false" key="WizardProjectsImportPage.STORE_ARCHIVE_SELECTED"/>
 		<list key="WizardProjectsImportPage.STORE_DIRECTORIES">
+<<<<<<< HEAD
 			<item value="/home/nathanah/Documentos/P2/LABGIT/lab-git"/>
+=======
+			<item value="/home/carolinyrvl/Documentos/LABGIT"/>
+>>>>>>> 235f50802b81d5d411ade89a95de1e929860a172
 		</list>
 		<list key="WizardProjectsImportPage.STORE_ARCHIVES">
 			<item value=""/>
@@ -16,7 +20,11 @@
 		</list>
 	</section>
 	<section name="ChooseWorkspaceDialogSettings">
+<<<<<<< HEAD
 		<item value="23" key="DIALOG_X_ORIGIN"/>
+=======
+		<item value="157" key="DIALOG_X_ORIGIN"/>
+>>>>>>> 235f50802b81d5d411ade89a95de1e929860a172
 		<item value="172" key="DIALOG_Y_ORIGIN"/>
 	</section>
 </section>
